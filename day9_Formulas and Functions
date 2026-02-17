@@ -1,0 +1,15 @@
+Day 9/120 – Formulas & Functions
+
+Today felt like a lot.
+
+I practiced writing formulas in Excel using basic math operators and learned how order of operations affects results.
+Comparison operators (=, >, <, etc.) are starting to make more sense too.
+
+Cell referencing finally clicked:
+Absolute ($A$1) locks everything.
+Mixed (A$1 or $A1) locks part of it.
+And pressing F4 cycles through the reference types — which makes it much easier.
+
+I explored functions like SUM, AVERAGE, COUNTIF, IF, AND, OR, and even touched statistical ones like median and quartiles.
+
+It’s a lot to process, but I’m beginning to see how functions help you ask better questions from data.
