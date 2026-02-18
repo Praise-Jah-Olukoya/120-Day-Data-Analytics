@@ -1,0 +1,13 @@
+Day 10/120 – Arrays, Lookups & Dates
+
+Today I went deeper into classic and modern (dynamic) arrays. Writing one formula and watching it spill into other cells is still fascinating.
+
+I practiced UNIQUE, SORT, and SUMPRODUCT, and used MEDIAN with an IF array to analyze salaries.
+
+Worked more with VLOOKUP, HLOOKUP, and XLOOKUP — starting to see when each makes sense.
+
+Text functions were my favorite. I combined columns with TEXTJOIN and had to research an alternative to TEXTSPLIT since my Excel version doesn’t have it.
+
+Wrapped up with date and time functions like DAY, MONTH, YEAR, HOUR, and DATE to clean datetime data.
+
+Still stretching, but it’s slowly making sense.
