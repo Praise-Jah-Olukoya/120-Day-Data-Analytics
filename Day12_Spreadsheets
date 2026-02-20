@@ -1,0 +1,11 @@
+Day 12/120 – Spreadsheets (Advanced)
+
+Today I dug deeper into Excel tables, formatting, and collaboration.
+I learned that when you add a new column, formulas autofill automatically, and when you add a new row, the table expands while keeping formulas and formatting intact. 
+Small, but really time-saving.
+Tables also use structured references instead of normal cell addresses. For example, = [@Sales] + [@Cost] is easier to read than =A2+B2. 
+Special specifiers like [ #Headers ], [ #Totals ], [ #All ] let you reference specific parts of the table — makes the formulas feel organized and intentional.
+I also explored slicers to filter charts, cell styles, and conditional formatting — color scales, data bars, icon sets.
+Seeing the changes update automatically makes patterns stand out without scanning numbers manually.
+Finally, I practiced data validation and sheet protection. Restricting inputs and protecting key cells reminded me that analysis starts with clean, controlled data.
+Advanced spreadsheets aren’t about complexity — they’re about structure, clarity, and setting things up properly from the start.
