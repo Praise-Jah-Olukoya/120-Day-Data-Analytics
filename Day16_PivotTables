@@ -5,7 +5,7 @@ Day 16/120 of learning data analytics in public and today was all about Pivot Ta
 If you've ever stared at a large dataset wondering how to make sense of it all — Pivot Tables are exactly what you need. 
 You drag and drop fields and Excel organizes and summarizes everything for you instantly.
 
-I also explored:
+I explored:
 - The PivotTable Analyze tab which is basically the control center for managing your table
 - Grouping, hierarchy and advanced features
 - Pivot Charts, Slicers and Timelines to filter and visualize data interactively
@@ -14,4 +14,4 @@ The part that impressed me most was connecting slicers and timelines to multiple
 
 Grouping is the one thing that didn't fully click today. I'm putting it on my list to revisit.
 
-*Pivot Tables actually made a lot of sense to me overall — more than I expected going in.*
+Pivot Tables actually made a lot of sense to me overall — more than I expected going in.
